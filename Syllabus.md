@@ -4,6 +4,13 @@
 * Time Complexity
 * Sorting
 * Arrays
+  * Problems
+    * Rotate array by a factor of x
+    * Nearest largest/smallest element to each element in array
+	  * Print 2D array spirally
+   	* Largest sum pair 
+  	* Longest continuous sum
+    * Given an array of integers (positive and negative) find the largest continuous sum
 * Linked List
 * Strings
 * Hash tables
