@@ -1,8 +1,14 @@
-# Syllabus #
+# Syllabus 
 
 * FizzBuzz Problem
 * Time Complexity
 * Sorting
+  * Bubble sort
+  * Insertion sort
+  * Count sort
+  * Quick sort
+  * Merge sort
+  * Radix sort
 * Arrays
   * Problems
     * Rotate array by a factor of x.
