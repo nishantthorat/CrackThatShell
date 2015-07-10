@@ -26,6 +26,12 @@
 * Stacks
 * Queues
 * Trees
+  * Problems
+    * Calculate tree height.
+    * Levelwise tree printing.
+    * Max/Min element with BST.
+    * Invert the binary tree.
+    * Trim the binary tree.
 * Graphs
 * Dynamic Programming
 * Heaps
