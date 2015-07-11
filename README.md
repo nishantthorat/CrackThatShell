@@ -1,5 +1,7 @@
-# CrackThatShell
-Interviewing is a learned skill and it takes conscious efforts to master the skills. Programming interviews is flawed process, however until a better alternative if found programmers need to learn and master the skills needed to successfully crack the programming interviews. 
+# Crack That Shell
+Interviewing is a learned skill and it takes conscious efforts to master the skills. Until practiced well with definite plan , interviewing is also a hard shell to crack too.
 
-I have seem many talented developers failing in interviews simply because they have not practised well. This is an attempt to fill the gap.
+We are attempting to provide developers a definitive resource to prepare better for technical interviews and help them get that dream job. This site is a work in progress and is continuously evolving.
+
+Stay tuned!
 
