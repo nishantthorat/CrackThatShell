@@ -5,8 +5,8 @@
 * [A primer on system design.] (http://www.hiredintech.com/system-design/)
 * [A good collection of interview problems with solutions (and videos for some items).] (http://www.ideserve.co.in)
 * [Another good problem collection with solutions] (http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
-* [A must practice platform.] (www.interviewbit.com)
-* [Another practice platform] (www.codility.com) [with learning resources.](https://codility.com/programmers/lessons/)
+* [A must practice platform.] (http://www.interviewbit.com)
+* [Another practice platform] (http://www.codility.com) [with learning resources.](https://codility.com/programmers/lessons/)
 * Subscribe to https://www.interviewcake.com
 * [Linked List problems.](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf)
 * [One more good site for collection of problems] (http://www.fitcoding.com). [You may find solutions here] (https://github.com/AjkP/InterviewQuestions)
