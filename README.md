@@ -5,5 +5,5 @@ We are attempting to provide developers a definitive resource to prepare better 
 
 Stay tuned!
 
-* [Syllabus] (Syllabus.md)
-* [Resources]  (Resources.md)
+* [Syllabus] (Syllabus.md)     : Live Document
+* [Resources]  (Resources.md)  : Live Document
